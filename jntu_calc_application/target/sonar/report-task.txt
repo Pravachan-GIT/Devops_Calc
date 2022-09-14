@@ -1,6 +1,6 @@
-projectKey=calculator1
+projectKey=Calculator_Devops
 serverUrl=http://localhost:9000
 serverVersion=9.5.0.56709
-dashboardUrl=http://localhost:9000/dashboard?id=calculator1
-ceTaskId=AYM2bIGOmN80U6L74sjd
-ceTaskUrl=http://localhost:9000/api/ce/task?id=AYM2bIGOmN80U6L74sjd
+dashboardUrl=http://localhost:9000/dashboard?id=Calculator_Devops
+ceTaskId=AYM7eKQnfJyZ6u4gX9Rj
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AYM7eKQnfJyZ6u4gX9Rj
