@@ -1,4 +1,4 @@
-package ETA_SB.jntu_calc_application;
+package eta_sb.jntu_calc_application;
 
 import java.io.IOException;
 import java.io.PrintWriter;

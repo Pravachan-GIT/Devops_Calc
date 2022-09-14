@@ -6,7 +6,7 @@ import org.junit.AfterClass;
 import org.junit.BeforeClass;
 import org.junit.Test;
 
-import ETA_SB.jntu_calc_application.Calculator;
+import eta_sb.jntu_calc_application.Calculator;
 
 public class CalculatorTest {
 
